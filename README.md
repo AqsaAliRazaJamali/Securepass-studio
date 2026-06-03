@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-Secure-success?style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?style=for-the-badge&logo=github)
 
 An enterprise-grade password generation and credential reinforcement platform built with **React** and **Vite**.
 
