@@ -1,5 +1,11 @@
 # SecurePass Studio 🛡️
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-Secure-success?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 An enterprise-grade password generation and credential reinforcement platform built with **React** and **Vite**.
 
 SecurePass Studio combines cryptographically secure password generation with intelligent password hardening techniques to help users create and strengthen credentials entirely within the browser. Every operation is executed client-side, ensuring complete privacy, zero data transmission, and maximum control over sensitive information.
