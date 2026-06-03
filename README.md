@@ -3,6 +3,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
 ![Client Side Only](https://img.shields.io/badge/Privacy-Client%20Side%20Only-success?style=for-the-badge)
 ![Password Security](https://img.shields.io/badge/Security-Password%20Generator-red?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 An enterprise-grade password generation and credential reinforcement platform built with **React** and **Vite**.
 
