@@ -108,22 +108,22 @@ Where:
 
 ```plaintext
 securepass-studio/
-├── .gitignore               # Multi-environment build tracking bypass
-├── index.html               # Single Page Application root viewport canvas
-├── package.json             # Operational dependencies and project specifications
-├── postcss.config.js        # PostCSS build definitions
-├── tailwind.config.js       # Core responsive matrix layout utility mapping
-├── vite.config.js           # Vite server execution configuration bindings
+├── .gitignore               
+├── index.html               
+├── package.json             
+├── postcss.config.js        
+├── tailwind.config.js       
+├── vite.config.js           
 ├── public/                  
-│   ├── favicon.svg          # Client browser branding element
-│   └── icons.svg            # Media asset matrix
+│   ├── favicon.svg          
+│   └── icons.svg            
 └── src/                     
-    ├── App.css              # Font face mappings and platform overrides
-    ├── App.jsx              # Central State Machine, Algorithmic Engines & Dark UI Core
-    ├── index.css            # Scoped global environment rules
-    ├── main.jsx             # React Virtual DOM bridge mount initialization
+    ├── App.css              
+    ├── App.jsx              
+    ├── index.css            
+    ├── main.jsx             
     └── assets/              
-        ├── hero.png         # Interface display items
+        ├── hero.png         
         ├── react.svg        
         └── vite.svg
 ```
